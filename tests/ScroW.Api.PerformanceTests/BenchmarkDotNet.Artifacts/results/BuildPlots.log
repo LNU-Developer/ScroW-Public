@@ -1,0 +1,145 @@
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-cummean.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-InProcess-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-InProcess-cummean.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-InProcess-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-InProcess-timeline.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-GraphQLNet-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-cummean.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-InProcess-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-InProcess-cummean.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-InProcess-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-InProcess-timeline.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-HotChocolate-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-cummean.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-InProcess-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-InProcess-cummean.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-InProcess-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-InProcess-timeline.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-Rest-density.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-barplot.png ***
+------------------------------
+*** Plot: C:\Users\Rickard Marjanovic\Desktop\ScroW\tests\ScroW.Api.PerformanceTests\BenchmarkDotNet.Artifacts\results\ScroW.Api.PerformanceTests.Benchmarks.PostCreateToken-boxplot.png ***
+Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated. 
+This warning is displayed once every 8 hours.
+See vignette('programming') for more help
+Please use `group_by()` instead.
+`group_by_()` was deprecated in dplyr 0.7.0.
+Warning message:
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`.groups` argument.
+`summarise()` has grouped output by 'Target_Method'. You can override using the
+R.devices v2.17.0 (2021-01-19 18:30:06 UTC) successfully loaded. See ?R.devices for help.
+    combine
+The following object is masked from 'package:dplyr':
+    combine
+The following object is masked from 'package:gdata':
+Attaching package: 'gridExtra'
+    startsWith
+The following object is masked from 'package:base':
+    object.size
+The following object is masked from 'package:utils':
+    nobs
+The following object is masked from 'package:stats':
+    combine, first, last
+The following objects are masked from 'package:dplyr':
+Attaching package: 'gdata'
+gdata: libaries needed to support Excel XLS and XLSX formats.
+gdata: to automatically download and install the perl
+gdata: Run the function 'installXLSXsupport()'
+gdata: to support 'XLSX' (Excel 2007+) files.
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.
+    intersect, setdiff, setequal, union
+The following objects are masked from 'package:base':
+    filter, lag
+The following objects are masked from 'package:stats':
+Attaching package: 'dplyr'
